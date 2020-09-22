@@ -1,0 +1,12 @@
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\bin\Release\WindowsFormsApp14.exe.config
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\bin\Release\WindowsFormsApp14.exe
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\bin\Release\WindowsFormsApp14.pdb
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Release\WindowsFormsApp14.Form1.resources
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Release\WindowsFormsApp14.Form2.resources
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Release\WindowsFormsApp14.Form3.resources
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Release\WindowsFormsApp14.Form4.resources
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Release\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Release\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Release\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Release\WindowsFormsApp14.exe
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Release\WindowsFormsApp14.pdb

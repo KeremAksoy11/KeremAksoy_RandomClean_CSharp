@@ -1,0 +1,91 @@
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojAssemblyReference.cache
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\Kerem Bey\source\repos\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form2.resources
+F:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+F:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+F:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+F:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+F:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+F:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+F:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+F:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form2.resources
+F:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+F:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+E:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+E:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+E:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+E:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+E:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+E:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+E:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+E:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form2.resources
+E:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+E:\Kerem\Temizlik Programı\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojAssemblyReference.cache
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form2.resources
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\Kerem Bey\Desktop\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojAssemblyReference.cache
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form2.resources
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\Kerem Bey\Desktop\Diğer Programlar\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form3.resources
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form2.resources
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form3.resources
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojAssemblyReference.cache
+E:\Kerem\KEREM\Temizlik Programı v1.2\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form4.resources
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form2.resources
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form3.resources
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form4.resources
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+E:\Kerem\KEREM\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojAssemblyReference.cache
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form2.resources
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form3.resources
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form4.resources
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+C:\Users\kerem\Temizlik Programı v1.3\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
